@@ -1,0 +1,221 @@
+id,departamento,municipio,punto_atencion,servicio,motivo,edad_rango,tiempo_traslado_min,gasto_estimado,atendido,satisfaccion
+1,Valle del Cauca,Palmira,Punto B,Acueducto,PQR,46-60,17,14628.0,Sí,5
+2,Cundinamarca,Bogotá,Punto A,Aseo,Queja,18-25,16,22042.0,Sí,5
+3,Antioquia,Bello,Punto C,Acueducto,Queja,18-25,33,1863.0,Sí,3
+4,Atlántico,Soledad,Punto C,Acueducto,Reclamo,36-45,28,4122.0,Sí,3
+5,Antioquia,Medellín,Punto C,Acueducto,Información,36-45,73,17104.0,No,4
+6,Santander,Piedecuesta,Punto B,Gas,Información,46-60,36,3274.0,No,5
+7,Atlántico,Malambo,Punto C,Aseo,Reclamo,36-45,14,4723.0,No,2
+8,Valle del Cauca,Palmira,Punto B,Aseo,PQR,60+,14,30583.0,No,3
+9,Valle del Cauca,Yumbo,Punto C,Aseo,PQR,46-60,39,18964.0,Sí,1
+10,Valle del Cauca,Yumbo,Punto B,Aseo,Reclamo,18-25,64,14219.0,Sí,4
+11,Antioquia,Bello,Punto B,Energía,Información,26-35,68,3223.0,No,4
+12,Santander,Giron,Punto A,Aseo,Reclamo,36-45,50,27309.0,No,2
+13,Cundinamarca,Bogotá,Punto A,Energía,Información,36-45,6,19399.0,Sí,3
+14,Valle del Cauca,Cali,Punto A,Aseo,Reclamo,36-45,45,38124.0,Sí,4
+15,Santander,Piedecuesta,Punto B,Aseo,Queja,18-25,86,16018.0,Sí,1
+16,Cundinamarca,Zipaquirá,Punto A,Acueducto,Reclamo,36-45,18,9.0,Sí,5
+17,Antioquia,Itagüí,Punto C,Acueducto,PQR,46-60,83,15049.0,No,3
+18,Santander,Giron,Punto B,Acueducto,PQR,46-60,64,19216.0,No,1
+19,Cundinamarca,Bogotá,Punto C,Gas,Reclamo,26-35,25,20653.0,Sí,5
+20,Valle del Cauca,Palmira,Punto C,Acueducto,Reclamo,60+,16,27848.0,No,5
+21,Valle del Cauca,Palmira,Punto B,Energía,Reclamo,36-45,83,32460.0,Sí,2
+22,Atlántico,Soledad,Punto A,Aseo,Reclamo,46-60,8,31605.0,No,3
+23,Cundinamarca,Chía,Punto B,Gas,Reclamo,18-25,18,9074.0,Sí,3
+24,Cundinamarca,Zipaquirá,Punto C,Acueducto,Queja,60+,49,31986.0,Sí,1
+25,Atlántico,Soledad,Punto B,Energía,Queja,46-60,47,3470.0,No,4
+26,Atlántico,Barranquilla,Punto C,Energía,Información,60+,8,6046.0,No,2
+27,Santander,Piedecuesta,Punto C,Gas,Información,36-45,21,856.0,Sí,5
+28,Cundinamarca,Zipaquirá,Punto A,Energía,PQR,26-35,42,20046.0,No,3
+29,Santander,Piedecuesta,Punto A,Acueducto,Reclamo,46-60,89,23334.0,No,5
+30,Cundinamarca,Soacha,Punto C,Acueducto,Queja,46-60,82,157.0,Sí,2
+31,Cundinamarca,Zipaquirá,Punto C,Acueducto,PQR,26-35,71,21229.0,No,1
+32,Santander,Bucaramanga,Punto A,Energía,Reclamo,18-25,17,20309.0,Sí,1
+33,Atlántico,Malambo,Punto C,Energía,Reclamo,26-35,73,32294.0,Sí,5
+34,Valle del Cauca,Palmira,Punto B,Energía,Queja,18-25,61,12639.0,Sí,4
+35,Antioquia,Bello,Punto C,Gas,PQR,46-60,24,37580.0,No,2
+36,Valle del Cauca,Palmira,Punto B,Energía,PQR,26-35,67,6512.0,Sí,2
+37,Atlántico,Puerto Colombia,Punto B,Aseo,Información,26-35,16,28886.0,Sí,3
+38,Santander,Piedecuesta,Punto B,Acueducto,Queja,26-35,84,11818.0,Sí,1
+39,Cundinamarca,Bogotá,Punto A,Gas,Reclamo,18-25,28,10818.0,Sí,4
+40,Valle del Cauca,Yumbo,Punto A,Aseo,Reclamo,18-25,12,31984.0,Sí,4
+41,Antioquia,Itagüí,Punto A,Acueducto,Reclamo,18-25,33,2665.0,Sí,4
+42,Antioquia,Itagüí,Punto C,Aseo,Reclamo,36-45,10,21077.0,Sí,1
+43,Cundinamarca,Chía,Punto A,Energía,Información,60+,85,12200.0,Sí,3
+44,Atlántico,Soledad,Punto B,Gas,PQR,60+,9,614.0,Sí,5
+45,Atlántico,Soledad,Punto B,Acueducto,Queja,36-45,74,33385.0,No,5
+46,Valle del Cauca,Palmira,Punto A,Gas,Información,46-60,86,5589.0,No,1
+47,Cundinamarca,Bogotá,Punto A,Gas,Queja,18-25,15,26609.0,No,5
+48,Valle del Cauca,Palmira,Punto C,Gas,PQR,26-35,25,10761.0,Sí,3
+49,Valle del Cauca,Jamundí,Punto C,Gas,Información,18-25,44,8715.0,Sí,1
+50,Valle del Cauca,Yumbo,Punto A,Aseo,Reclamo,36-45,30,9927.0,Sí,1
+51,Valle del Cauca,Cali,Punto A,Aseo,PQR,26-35,43,12170.0,Sí,1
+52,Santander,Floridablanca,Punto C,Aseo,Reclamo,46-60,68,5979.0,Sí,1
+53,Santander,Piedecuesta,Punto C,Energía,PQR,46-60,79,31919.0,Sí,1
+54,Antioquia,Medellín,Punto A,Gas,PQR,26-35,62,22341.0,Sí,5
+55,Cundinamarca,Zipaquirá,Punto B,Acueducto,Queja,46-60,69,35914.0,Sí,5
+56,Antioquia,Envigado,Punto B,Acueducto,Reclamo,26-35,31,9229.0,No,4
+57,Atlántico,Barranquilla,Punto B,Gas,PQR,36-45,87,7932.0,Sí,3
+58,Valle del Cauca,Jamundí,Punto C,Energía,PQR,36-45,67,10751.0,Sí,2
+59,Atlántico,Malambo,Punto C,Gas,Queja,26-35,20,39732.0,Sí,3
+60,Antioquia,Envigado,Punto A,Gas,Queja,18-25,69,38724.0,No,3
+61,Atlántico,Soledad,Punto A,Acueducto,PQR,18-25,72,10472.0,No,2
+62,Santander,Giron,Punto A,Gas,Información,36-45,67,15763.0,Sí,1
+63,Atlántico,Puerto Colombia,Punto B,Gas,Información,26-35,53,12643.0,No,1
+64,Valle del Cauca,Jamundí,Punto B,Acueducto,Información,36-45,42,10128.0,Sí,4
+65,Atlántico,Barranquilla,Punto B,Aseo,Reclamo,46-60,40,4068.0,No,2
+66,Cundinamarca,Chía,Punto B,Gas,Información,46-60,59,35371.0,No,5
+67,Santander,Floridablanca,Punto C,Acueducto,PQR,60+,57,18034.0,Sí,3
+68,Atlántico,Barranquilla,Punto C,Energía,Información,26-35,48,11270.0,No,3
+69,Atlántico,Soledad,Punto B,Aseo,Queja,18-25,87,6466.0,Sí,5
+70,Atlántico,Soledad,Punto B,Gas,Queja,26-35,75,7696.0,Sí,2
+71,Valle del Cauca,Cali,Punto B,Energía,Reclamo,26-35,77,8086.0,Sí,4
+72,Atlántico,Puerto Colombia,Punto C,Energía,Queja,26-35,12,19926.0,No,2
+73,Santander,Floridablanca,Punto A,Gas,Información,26-35,87,17834.0,No,1
+74,Cundinamarca,Bogotá,Punto B,Aseo,Queja,18-25,55,37210.0,No,4
+75,Cundinamarca,Bogotá,Punto A,Energía,Información,36-45,18,37660.0,No,1
+76,Santander,Bucaramanga,Punto A,Energía,Información,36-45,9,25820.0,No,2
+77,Valle del Cauca,Yumbo,Punto C,Acueducto,PQR,18-25,72,37742.0,Sí,4
+78,Valle del Cauca,Palmira,Punto C,Acueducto,PQR,36-45,63,11144.0,No,2
+79,Atlántico,Soledad,Punto C,Energía,PQR,60+,88,12296.0,Sí,2
+80,Atlántico,Puerto Colombia,Punto A,Gas,Información,36-45,52,9071.0,Sí,3
+81,Atlántico,Malambo,Punto C,Aseo,Información,18-25,42,29565.0,Sí,2
+82,Atlántico,Soledad,Punto B,Energía,Información,26-35,38,30419.0,No,1
+83,Santander,Piedecuesta,Punto C,Energía,Información,36-45,90,2257.0,Sí,4
+84,Antioquia,Bello,Punto A,Energía,Queja,18-25,12,7364.0,No,3
+85,Antioquia,Medellín,Punto A,Gas,Información,26-35,72,29852.0,Sí,3
+86,Atlántico,Malambo,Punto B,Aseo,Información,18-25,15,11192.0,No,4
+87,Antioquia,Bello,Punto B,Gas,Reclamo,46-60,60,3510.0,No,2
+88,Valle del Cauca,Yumbo,Punto A,Gas,Reclamo,46-60,65,1211.0,No,2
+89,Atlántico,Barranquilla,Punto B,Acueducto,Queja,18-25,12,10281.0,Sí,5
+90,Valle del Cauca,Jamundí,Punto B,Gas,PQR,26-35,45,36969.0,No,1
+91,Santander,Bucaramanga,Punto A,Energía,PQR,26-35,64,38156.0,No,3
+92,Atlántico,Puerto Colombia,Punto A,Aseo,Información,18-25,43,32910.0,Sí,5
+93,Cundinamarca,Chía,Punto B,Aseo,Reclamo,46-60,81,3161.0,Sí,4
+94,Cundinamarca,Soacha,Punto B,Acueducto,PQR,36-45,74,13030.0,No,1
+95,Antioquia,Itagüí,Punto C,Acueducto,Información,18-25,68,39537.0,No,2
+96,Cundinamarca,Soacha,Punto B,Aseo,Información,46-60,90,30383.0,No,3
+97,Valle del Cauca,Jamundí,Punto B,Gas,Reclamo,26-35,36,7429.0,Sí,2
+98,Valle del Cauca,Palmira,Punto B,Acueducto,Queja,26-35,36,20293.0,Sí,1
+99,Atlántico,Barranquilla,Punto A,Acueducto,Queja,46-60,34,33622.0,No,1
+100,Valle del Cauca,Palmira,Punto A,Acueducto,Información,36-45,79,7766.0,Sí,3
+101,Santander,Floridablanca,Punto B,Gas,PQR,18-25,81,28388.0,No,2
+102,Antioquia,Itagüí,Punto B,Energía,PQR,26-35,37,1529.0,Sí,1
+103,Valle del Cauca,Yumbo,Punto C,Gas,Información,36-45,14,8136.0,No,5
+104,Atlántico,Barranquilla,Punto B,Acueducto,Queja,36-45,24,25567.0,Sí,2
+105,Atlántico,Malambo,Punto B,Gas,Reclamo,26-35,11,12494.0,No,4
+106,Atlántico,Barranquilla,Punto B,Energía,Queja,46-60,31,37679.0,No,2
+107,Atlántico,Barranquilla,Punto A,Aseo,Reclamo,26-35,25,5199.0,Sí,5
+108,Cundinamarca,Zipaquirá,Punto A,Gas,Información,18-25,41,6473.0,Sí,1
+109,Antioquia,Envigado,Punto B,Energía,Reclamo,18-25,10,39022.0,No,3
+110,Antioquia,Envigado,Punto A,Energía,Información,36-45,83,33854.0,No,2
+111,Santander,Floridablanca,Punto A,Aseo,Información,26-35,20,5979.0,Sí,1
+112,Santander,Bucaramanga,Punto C,Gas,PQR,26-35,63,22002.0,No,4
+113,Valle del Cauca,Palmira,Punto B,Aseo,Reclamo,26-35,61,7151.0,Sí,5
+114,Atlántico,Puerto Colombia,Punto A,Aseo,Queja,46-60,65,16014.0,Sí,2
+115,Valle del Cauca,Yumbo,Punto B,Acueducto,Queja,36-45,89,1631.0,Sí,1
+116,Valle del Cauca,Cali,Punto A,Aseo,Información,18-25,13,39845.0,Sí,2
+117,Cundinamarca,Zipaquirá,Punto B,Energía,Información,18-25,49,24418.0,No,2
+118,Valle del Cauca,Jamundí,Punto B,Energía,Reclamo,36-45,66,8333.0,No,5
+119,Santander,Floridablanca,Punto B,Gas,PQR,26-35,56,6449.0,No,3
+120,Atlántico,Soledad,Punto B,Acueducto,PQR,36-45,51,38646.0,No,5
+121,Santander,Bucaramanga,Punto B,Aseo,Reclamo,26-35,52,23094.0,No,3
+122,Antioquia,Envigado,Punto A,Energía,PQR,26-35,71,10146.0,No,1
+123,Antioquia,Bello,Punto A,Gas,Queja,26-35,51,35822.0,Sí,4
+124,Cundinamarca,Bogotá,Punto A,Acueducto,PQR,36-45,43,4255.0,No,5
+125,Cundinamarca,Zipaquirá,Punto C,Gas,Información,26-35,84,33139.0,Sí,2
+126,Antioquia,Bello,Punto C,Energía,Queja,18-25,86,5788.0,No,4
+127,Valle del Cauca,Cali,Punto A,Gas,Queja,36-45,71,29341.0,Sí,2
+128,Antioquia,Medellín,Punto A,Acueducto,Queja,26-35,25,2335.0,Sí,1
+129,Santander,Floridablanca,Punto A,Aseo,Información,36-45,87,20278.0,No,5
+130,Cundinamarca,Chía,Punto A,Gas,PQR,60+,66,28616.0,Sí,4
+131,Atlántico,Puerto Colombia,Punto A,Aseo,Información,26-35,18,10457.0,Sí,1
+132,Valle del Cauca,Jamundí,Punto C,Acueducto,Reclamo,36-45,60,27429.0,No,3
+133,Cundinamarca,Bogotá,Punto C,Acueducto,Información,26-35,35,33669.0,Sí,2
+134,Valle del Cauca,Palmira,Punto B,Gas,Información,26-35,85,36867.0,No,4
+135,Santander,Bucaramanga,Punto A,Aseo,Información,36-45,44,31568.0,No,5
+136,Santander,Bucaramanga,Punto C,Energía,Información,18-25,19,4267.0,Sí,3
+137,Cundinamarca,Bogotá,Punto A,Acueducto,Información,36-45,86,1706.0,Sí,1
+138,Antioquia,Itagüí,Punto A,Acueducto,Queja,18-25,31,8126.0,Sí,1
+139,Antioquia,Itagüí,Punto B,Acueducto,Información,18-25,87,8200.0,No,3
+140,Atlántico,Malambo,Punto A,Gas,Reclamo,60+,11,28630.0,No,3
+141,Santander,Piedecuesta,Punto B,Acueducto,Queja,18-25,71,30921.0,No,4
+142,Antioquia,Bello,Punto C,Acueducto,Reclamo,18-25,5,20942.0,No,1
+143,Antioquia,Itagüí,Punto B,Acueducto,Queja,36-45,28,38686.0,No,5
+144,Valle del Cauca,Palmira,Punto B,Energía,Información,36-45,19,37548.0,Sí,4
+145,Santander,Bucaramanga,Punto C,Gas,Reclamo,18-25,55,35674.0,Sí,4
+146,Antioquia,Itagüí,Punto A,Gas,Reclamo,26-35,74,20048.0,No,2
+147,Atlántico,Soledad,Punto C,Acueducto,Reclamo,36-45,71,6213.0,No,5
+148,Valle del Cauca,Palmira,Punto B,Aseo,Reclamo,36-45,21,13362.0,Sí,5
+149,Cundinamarca,Chía,Punto B,Energía,Información,60+,46,24116.0,No,2
+150,Cundinamarca,Chía,Punto A,Gas,PQR,18-25,89,4066.0,No,2
+151,Cundinamarca,Chía,Punto C,Gas,Queja,26-35,18,25519.0,Sí,3
+152,Cundinamarca,Zipaquirá,Punto B,Acueducto,PQR,26-35,60,27738.0,No,4
+153,Antioquia,Bello,Punto B,Aseo,PQR,46-60,60,28046.0,No,2
+154,Santander,Floridablanca,Punto C,Energía,PQR,26-35,45,10392.0,Sí,4
+155,Cundinamarca,Zipaquirá,Punto C,Energía,Reclamo,46-60,66,18208.0,No,5
+156,Cundinamarca,Chía,Punto A,Aseo,Queja,60+,18,1526.0,Sí,2
+157,Cundinamarca,Chía,Punto A,Aseo,Información,36-45,70,644.0,No,5
+158,Valle del Cauca,Yumbo,Punto C,Aseo,Información,60+,28,15700.0,Sí,5
+159,Valle del Cauca,Cali,Punto B,Gas,Queja,26-35,6,3007.0,No,3
+160,Santander,Giron,Punto A,Energía,Reclamo,46-60,72,38860.0,No,4
+161,Cundinamarca,Soacha,Punto A,Acueducto,Información,26-35,76,28828.0,Sí,3
+162,Atlántico,Puerto Colombia,Punto B,Energía,Queja,26-35,34,10697.0,No,3
+163,Atlántico,Soledad,Punto B,Acueducto,Reclamo,26-35,88,12073.0,No,4
+164,Atlántico,Barranquilla,Punto C,Gas,Información,60+,54,2283.0,No,2
+165,Santander,Giron,Punto C,Acueducto,PQR,26-35,14,26238.0,No,5
+166,Antioquia,Bello,Punto A,Energía,Queja,26-35,24,8342.0,No,5
+167,Cundinamarca,Bogotá,Punto C,Gas,Información,36-45,32,21232.0,No,1
+168,Santander,Bucaramanga,Punto B,Aseo,Información,46-60,65,19723.0,Sí,4
+169,Atlántico,Soledad,Punto C,Aseo,Información,36-45,74,23984.0,Sí,2
+170,Valle del Cauca,Yumbo,Punto C,Aseo,Reclamo,46-60,52,17033.0,Sí,2
+171,Valle del Cauca,Cali,Punto A,Acueducto,Reclamo,46-60,17,20425.0,No,2
+172,Antioquia,Bello,Punto C,Aseo,Información,26-35,89,14646.0,No,5
+173,Santander,Floridablanca,Punto B,Aseo,Reclamo,26-35,75,2109.0,No,3
+174,Valle del Cauca,Yumbo,Punto B,Gas,Reclamo,46-60,49,39000.0,No,1
+175,Valle del Cauca,Palmira,Punto B,Gas,Información,36-45,86,3503.0,Sí,4
+176,Santander,Piedecuesta,Punto C,Acueducto,Queja,26-35,5,1856.0,No,5
+177,Antioquia,Envigado,Punto C,Energía,PQR,26-35,90,25344.0,Sí,1
+178,Cundinamarca,Bogotá,Punto B,Acueducto,PQR,26-35,22,31462.0,No,3
+179,Cundinamarca,Zipaquirá,Punto A,Gas,PQR,26-35,87,23131.0,Sí,4
+180,Santander,Bucaramanga,Punto A,Aseo,Queja,26-35,6,27199.0,Sí,4
+181,Atlántico,Barranquilla,Punto A,Aseo,Información,46-60,85,621.0,Sí,1
+182,Antioquia,Medellín,Punto A,Acueducto,Información,26-35,40,28774.0,Sí,4
+183,Cundinamarca,Bogotá,Punto B,Energía,PQR,26-35,76,28369.0,No,3
+184,Antioquia,Medellín,Punto A,Acueducto,PQR,46-60,84,3187.0,No,3
+185,Santander,Floridablanca,Punto B,Acueducto,Reclamo,26-35,78,29111.0,No,2
+186,Cundinamarca,Bogotá,Punto B,Energía,Queja,26-35,62,37797.0,No,3
+187,Valle del Cauca,Cali,Punto C,Gas,PQR,46-60,81,33305.0,No,2
+188,Atlántico,Puerto Colombia,Punto C,Aseo,Información,46-60,41,27542.0,No,3
+189,Valle del Cauca,Yumbo,Punto A,Acueducto,Reclamo,46-60,78,5880.0,No,3
+190,Santander,Bucaramanga,Punto C,Aseo,Queja,26-35,34,12379.0,Sí,4
+191,Atlántico,Soledad,Punto B,Acueducto,Queja,26-35,16,21446.0,No,1
+192,Cundinamarca,Zipaquirá,Punto C,Gas,Reclamo,26-35,80,8075.0,Sí,2
+193,Antioquia,Bello,Punto C,Gas,Reclamo,36-45,50,16100.0,Sí,2
+194,Antioquia,Envigado,Punto B,Acueducto,Reclamo,36-45,15,6246.0,Sí,3
+195,Valle del Cauca,Cali,Punto A,Acueducto,Información,60+,77,19453.0,Sí,3
+196,Valle del Cauca,Yumbo,Punto A,Aseo,Información,26-35,9,13554.0,Sí,4
+197,Antioquia,Medellín,Punto A,Acueducto,Reclamo,46-60,63,19473.0,Sí,5
+198,Atlántico,Barranquilla,Punto C,Acueducto,Reclamo,26-35,34,25625.0,No,2
+199,Atlántico,Soledad,Punto B,Energía,Información,18-25,37,37647.0,Sí,5
+200,Antioquia,Medellín,Punto B,Aseo,PQR,18-25,45,30198.0,Sí,3
+201,Santander,Piedecuesta,Punto C,Acueducto,Queja,26-35,37,15602.0,No,4
+202,Atlántico,Soledad,Punto B,Energía,Información,60+,6,18716.0,Sí,1
+203,Cundinamarca,Soacha,Punto A,Gas,Información,46-60,17,37038.0,No,1
+204,Antioquia,Envigado,Punto B,Gas,Información,26-35,85,14641.0,No,2
+205,Antioquia,Bello,Punto C,Aseo,Información,26-35,24,10656.0,No,2
+206,Cundinamarca,Bogotá,Punto B,Gas,Reclamo,46-60,38,19640.0,No,4
+207,Atlántico,Barranquilla,Punto A,Acueducto,Información,36-45,41,4768.0,Sí,3
+208,Atlántico,Malambo,Punto A,Energía,PQR,26-35,58,35848.0,Sí,3
+209,Cundinamarca,Bogotá,Punto B,Gas,Información,26-35,72,11456.0,No,4
+210,Antioquia,Envigado,Punto A,Gas,Información,18-25,28,20866.0,Sí,2
+211,Cundinamarca,Bogotá,Punto A,Aseo,Reclamo,18-25,22,24497.0,Sí,5
+212,Valle del Cauca,Palmira,Punto A,Acueducto,Queja,46-60,12,20738.0,No,3
+213,Valle del Cauca,Yumbo,Punto A,Acueducto,Queja,60+,66,5331.0,No,2
+214,Cundinamarca,Chía,Punto A,Energía,Reclamo,36-45,5,14246.0,No,5
+215,Antioquia,Medellín,Punto B,Energía,Reclamo,46-60,53,23052.0,Sí,3
+216,Antioquia,Envigado,Punto B,Acueducto,Información,18-25,16,8948.0,Sí,2
+217,Antioquia,Itagüí,Punto B,Acueducto,PQR,18-25,29,10457.0,No,5
+218,Cundinamarca,Zipaquirá,Punto A,Gas,PQR,36-45,10,10921.0,No,4
+219,Santander,Giron,Punto A,Acueducto,PQR,26-35,22,21664.0,Sí,2
+220,Cundinamarca,Zipaquirá,Punto C,Aseo,Información,60+,7,37503.0,No,4
